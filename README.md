@@ -24,7 +24,7 @@ cd Product-Recommendation-System
 pip install -r requirements.txt
 ```
 
-3. Ensure you have the data.pkl and similarity.pkl files in the root directory. These files should contain your dataset and the similarity matrix, respectively.
+3. Ensure you have the `data.pkl` and `similarity.pkl` files in the root directory. These files should contain your dataset and the similarity matrix, respectively.
 
 ### Usage
 1. Run the Streamlit application:
