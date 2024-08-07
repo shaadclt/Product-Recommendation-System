@@ -3,8 +3,7 @@ This is a simple product recommendation system built using Python and Streamlit.
 
 ## Features
 - Select a product from the dropdown menu to get recommendations.
-- Display top 3 recommended products with images in a single row.
-- The application does not display products if the image is not available.
+- Display top 3 recommended products with images.
 
 ## Getting Started
 ### Prerequisites
