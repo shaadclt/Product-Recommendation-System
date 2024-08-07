@@ -28,7 +28,7 @@ st.title('Product Recommendation System')
 
 product_name = st.selectbox('Select a product:', electronics['name'])
 
-if st.button('Search'):
+if st.button('Recommend'):
     search_product = recommendation(product_name)
 
     # Create columns for displaying the products in a row
