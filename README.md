@@ -40,4 +40,4 @@ The application recommends products based on their similarity scores and display
 
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE.txt).
